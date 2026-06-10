@@ -25,7 +25,7 @@ Lee [INSTRUCCIONES.md](INSTRUCCIONES.md) antes de empezar.
 
 | Integrantes | Juego favorito | Película / Serie favorita | Animal favorito |
 |-------------|----------------|--------------------------|-----------------|
-| | | | |
+| Mayra Carrillo Soto | Minecraft | Black Mirror| Perro |
 | | | | |
 | | | | |
 | | | | |
