@@ -25,7 +25,7 @@ Lee [INSTRUCCIONES.md](INSTRUCCIONES.md) antes de empezar.
 
 | Integrantes | Juego favorito | Película / Serie favorita | Animal favorito |
 |-------------|----------------|--------------------------|-----------------|
-| Mayra Carrillo Soto | Minecraft | Black Mirror| Perro |
+| Maira Carrilo Sottoh | Minecraft | Black Mirror| Perro |
 | Jonatan Agüero Fiac | Dofus | Matrix | Manatie |
-| | | | |
+| Cristóbal Veas Huequemán | Minecraft | Steins:Gate | Perrito de la pradera |
 | | | | |
